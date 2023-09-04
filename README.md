@@ -1,4 +1,9 @@
-### Hi there 👋
+
+- 👋🏼Hi, I'm @j.papontee
+- 🦾I'm interested in Machine Learning, Education Mathematic, Experiential Learning, Programming, Python, Java
+- 📖I’m currently learning React, Application Development, AI
+- 🫵🏻I'm looking to collaborate with all of you
+- 🛎️You can contact me just by searching my username.
 
 <!--
 **aatuodcrd/aatuodcrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
