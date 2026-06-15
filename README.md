@@ -92,6 +92,15 @@
 
 > 💼 More AI work — TrueX device control · AI observability (Opik) · GPT-backed analytics — on my **[portfolio site](https://aatuodcrd.github.io)**
 
+<!-- ===================== EDUCATION ===================== -->
+## 🎓 Education
+
+| Level | Program | School | When | Result |
+|---|---|---|---|---|
+| 🏛️ **B.Eng.** | Computer Engineering & Artificial Intelligence | Panyapiwat Institute of Management | `2022–2026` | **GPA 3.92** · First Class Honors · CP Scholarship |
+| 🔬 **High School** | SMTE — Science · Math · Technology · Environment | Kanchanukroh School | `2019–2021` | GPA 3.89 |
+| 🌐 **Secondary** | EIS — English Integrated Study | Kanchanukroh School | `2016–2018` | GPA 3.30 |
+
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 ## 📈 Contribution Activity
 
