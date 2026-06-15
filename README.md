@@ -34,7 +34,7 @@
 | 🎙️ **Voice AI** | Low-latency, real-time voice agents (Pipecat / WebRTC) for multi-brand control |
 | 🔎 **RAG & LLMs** | Retrieval pipelines, embeddings, vector & semantic search, GPT-backed features |
 | ✅ **AI Evaluation & Observability** | Agent-evaluation frameworks + tracing/observability (Opik) for production AI |
-| 👁️ **Computer Vision** | Object-detection & localization pipelines (DINOv3, OpenCV) |
+| 👁️ **Computer Vision** | Object-detection & localization pipelines (YOLO, DINOv3, OpenCV) |
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ AI & Engineering Stack
@@ -45,6 +45,7 @@
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://www.langchain.com" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a>
 <a href="https://opencv.org" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
+<a href="https://www.ultralytics.com" target="_blank"><img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white"/></a>
 <a href="https://modelcontextprotocol.io" target="_blank"><img src="https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=anthropic&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RAG%20%2F%20Vector%20Search-1C3C3C?style=flat-square&logo=qdrant&logoColor=white"/>
 <a href="https://www.comet.com/site/products/opik/" target="_blank"><img src="https://img.shields.io/badge/Opik%20(Observability)-25272C?style=flat-square&logoColor=white"/></a>
