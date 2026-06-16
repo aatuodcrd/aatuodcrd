@@ -105,7 +105,11 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aatuodcrd&bg_color=0d1117&color=5fb3b3&line=3b8686&point=e6edf3&area=true&area_color=0b486b&hide_border=true&custom_title=Contribution%20Activity" alt="contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aatuodcrd&bg_color=0d1117&color=5fb3b3&line=3b8686&point=e6edf3&area=true&area_color=0b486b&hide_border=true&custom_title=Contribution%20Activity"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aatuodcrd&bg_color=ffffff&color=0b486b&line=3b8686&point=0b486b&area=true&area_color=a5d8d8&hide_border=true&custom_title=Contribution%20Activity"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aatuodcrd&bg_color=0d1117&color=5fb3b3&line=3b8686&point=e6edf3&area=true&area_color=0b486b&hide_border=true&custom_title=Contribution%20Activity" alt="contribution graph"/>
+</picture>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
