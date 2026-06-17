@@ -101,6 +101,16 @@
 | 🔬 **High School** | SMTE — Science · Math · Technology · Environment | Kanchanukroh School | `2019–2021` | GPA 3.89 |
 | 🌐 **Secondary** | EIS — English Integrated Study | Kanchanukroh School | `2016–2018` | GPA 3.30 |
 
+<!-- ===================== OPEN-SOURCE CONTRIBUTIONS ===================== -->
+## 🌐 Open-Source Contributions
+
+Things I've helped build in **other people's** repos:
+
+| Project | What I helped with |
+|---|---|
+| 🖥️ **[paulrobello/claude-office](https://github.com/paulrobello/claude-office)** | Built the **Command Center** — a cross-terminal session overview for the dashboard · [PR](https://github.com/paulrobello/claude-office/pull/45) |
+| 🐛 ↳ _same repo_ | A **full-system QA sweep** across backend, frontend, hooks & plugin · [PR](https://github.com/paulrobello/claude-office/pull/44) |
+
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 ## 📈 Contribution Activity
 
