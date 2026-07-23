@@ -34,6 +34,7 @@
 | 🎙️ **Voice AI** | Low-latency, real-time voice agents (Pipecat / WebRTC) for multi-brand control |
 | 🔎 **RAG & LLMs** | Retrieval pipelines, embeddings, vector & semantic search, GPT-backed features |
 | ✅ **AI Evaluation & Observability** | Agent-evaluation frameworks + tracing/observability (Opik) for production AI |
+| 🛰️ **GEO / AI Visibility** | Auditing how brands surface inside LLM/AI answers — generative engine optimization |
 | 👁️ **Computer Vision** | Object-detection & localization pipelines (YOLO, DINOv3, OpenCV) |
 
 <!-- ===================== TECH STACK ===================== -->
@@ -86,7 +87,8 @@
 | 🎙️ **Noah AI** | Multi-brand smart-home **voice AI agent** — MCP + Home Assistant, low-latency orchestration | `MCP` `Pipecat` `LLMs` |
 | 🧠 **Enterprise RAG** | End-to-end **RAG ecosystem** for an insurance provider — RBAC + secure B2B API gateway | `RAG` `FastAPI` `Vector Search` |
 | 🔎 **Agentic Vision** | Object localization rebuilt into an **MCP pipeline** with DINOv3 + semantic embeddings | `DINOv3` `MCP` `Embeddings` |
-| 🏨 **BC AI Platform** | Internal platform for an 8-hotel group — revenue/BI dashboards with **GPT-backed analytics** | `React` `PostgreSQL` `AWS` |
+| 🛰️ **AI Visibility (AIV)** | Automated **GEO audits** — how a brand surfaces inside LLM/AI answers, scored across models &amp; prompts | `LLMs` `GEO` `Python` |
+| 🏨 **BC AI Platform** | Internal platform for an 8-hotel group — revenue/BI + **GPT-backed analytics**, product-scoped RBAC, and multi-tenant **Row-Level Security** on AWS | `React` `PostgreSQL` `AWS` |
 | ✅ **AI Agent Evaluation** | Sequential-logic framework validating multi-step agent workflows (tool order + data passing) | `LLMs` `MCP` `pytest` |
 | 📰 **[Health Misinformation Detection](https://github.com/aatuodcrd/Zero-Shot-Health-Fake-News-Detection-with-SERP-Based-Context-Retrieval)** | **Zero-shot** health fake-news classification via SERP-based context retrieval | `Python` `NLP` `LLMs` |
 
