@@ -118,9 +118,9 @@ Things I've helped build in **other people's** repos:
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/5fb3b3/aatuodcrd"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0b486b/aatuodcrd"/>
-  <img width="100%" src="https://ghchart.rshah.org/5fb3b3/aatuodcrd" alt="contribution graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"/>
+  <img width="100%" src="assets/activity-dark.svg" alt="contribution graph"/>
 </picture>
 </div>
 
