@@ -118,9 +118,9 @@ Things I've helped build in **other people's** repos:
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"/>
-  <img width="100%" src="assets/activity-dark.svg" alt="contribution graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-card-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-card-light.svg"/>
+  <img width="100%" src="assets/activity-card-dark.svg" alt="contribution graph"/>
 </picture>
 </div>
 

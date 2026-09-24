@@ -104,8 +104,8 @@ text{{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:{p["
     return "\n".join(o)
 
 PALETTES = {  # matches aatuodcrd.github.io tokens
-    "assets/activity-dark.svg": dict(bg="#0d1117", line="#262c33", text="#e7ecef", muted="#8a939c", a1="#4fd1c5", a2="#8b8bf5"),
-    "assets/activity-light.svg": dict(bg="#ffffff", line="#e3e6e8", text="#0b0d10", muted="#565f68", a1="#0d7d8c", a2="#5757d6"),
+    "assets/activity-card-dark.svg": dict(bg="#0d1117", line="#262c33", text="#e7ecef", muted="#8a939c", a1="#4fd1c5", a2="#8b8bf5"),
+    "assets/activity-card-light.svg": dict(bg="#ffffff", line="#e3e6e8", text="#0b0d10", muted="#565f68", a1="#0d7d8c", a2="#5757d6"),
 }
 
 if __name__ == "__main__":
